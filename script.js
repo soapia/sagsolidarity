@@ -8,7 +8,7 @@ function toCommas(num) {
 
 function capitalize(name) {
   return name.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
-}
+} 
 
 function toMils(num) {
   var str = num.toString()
