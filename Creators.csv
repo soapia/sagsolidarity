@@ -1,63 +1,130 @@
 Name,Handle,TikTokLink,ProfilePicture,Following
-Sofia Ongele,sewpheeyuh,https://www.tiktok.com/@sewpheeyuh,assets/@sewpheeyuh-profile.jpeg,310000
-Victoria Hammett,victoriahammett,https://www.tiktok.com/@victoriahammett,assets/@victoriahammett-profile.jpeg,821100
-Luis desantiago,luis.wtf,https://www.tiktok.com/@Luis.wtf,assets/@luis.wtf-profile.jpeg,34796
-Yakiem Oconnor ,imyakiem,https://www.tiktok.com/@imyakiem,assets/@imyakiem-profile.jpeg,315604
-Jack Petocz,jack_petocz,https://www.tiktok.com/@jack_petocz,assets/@jack_petocz-profile.jpeg,31037
-Elise Joshi,elisejoshi,https://www.tiktok.com/@Elisejoshi,assets/@elisejoshi-profile.jpeg,148400
-Anthony Guevara,varatony,https://www.tiktok.com/@varatony,assets/@varatony-profile.jpeg,406508
-Madison Lawrence,thenewmadison,https://www.tiktok.com/@thenewmadison,assets/@thenewmadison-profile.jpeg,76056
-Samuel Everett Korn,samerubi,https://www.tiktok.com/@samerubi,assets/@samerubi-profile.jpeg,1073895
-Sam Shlafstein,yamshlaf,https://www.tiktok.com/@yamshlaf,assets/@yamshlaf-profile.jpeg,132937
-Connor Hesse,connorhessee,https://www.tiktok.com/@connorhessee,assets/@connorhessee-profile.jpeg,4168966
-Conor Stayton,cowboyconor,https://www.tiktok.com/@CowboyConor,assets/@cowboyconor-profile.jpeg,553265
-Claire Simon,claire.leah13,https://www.tiktok.com/@claire.leah13,assets/@claire.leah13-profile.jpeg,2216
-Abbie Richards,tofology,https://www.tiktok.com/@tofology,assets/@tofology-profile.jpeg,526300
-Trevor Douglas Haueisen,trvrdmusic,https://www.tiktok.com/@trvrdmusic,assets/@trvrdmusic-profile.jpeg,36890
-Seth Thomas,zethdafer,https://www.tiktok.com/@Zethdafer,assets/@zethdafer-profile.jpeg,228100
-Michael Hootner,mikehootner,https://www.tiktok.com/@Mikehootner,assets/@mikehootner-profile.jpeg,22600
-Sarah Kennedy ,boozhoo.sarah,https://www.tiktok.com/@Boozhoo.Sarah,assets/@boozhoo.sarah-profile.jpeg,5686
-Alex Pearlman,pearlmania500,https://www.tiktok.com/@Pearlmania500,assets/@pearlmania500-profile.jpeg,1885550
-Hope Marie ,epohmp4,https://www.tiktok.com/@epohmp4,assets/@epohmp4-profile.jpeg,1015647
-Sabrina pare,sabrina.sustainable.life,https://www.tiktok.com/@Sabrina.sustainable.life,assets/@sabrina.sustainable.life-profile.jpeg,228709
-Folasade (Sadé) Kammen,justsadeee,https://www.tiktok.com/@justsadeee,assets/@justsadeee-profile.jpeg,119379
-amber pesce,kurtsf4ggylamp,https://www.tiktok.com/@kurtsf4ggylamp,assets/@kurtsf4ggylamp-profile.jpeg,48481
-Caitlin Mourek,caityohwaity,https://www.tiktok.com/@caityohwaity,assets/@caityohwaity-profile.jpeg,32370
-Oluwatoni Akande,thissonghasnotitle,https://www.tiktok.com/@thissonghasnotitle,assets/@thissonghasnotitle-profile.jpeg,153323
-yahzee mendez ,_second.star_,https://www.tiktok.com/@_second.star_,assets/@_second.star_-profile.jpeg,129159
-Anya Mathur,anyamth,https://www.tiktok.com/@anyamth,assets/@anyamth-profile.jpeg,326805
-Leah Abigail Yi,ravenforreal,https://www.tiktok.com/@RavenForReal,assets/@ravenforreal-profile.jpeg,157898
-Duncan Joseph,duncanyounot,https://www.tiktok.com/@Duncanyounot,assets/@duncanyounot-profile.jpeg,4540000
-Aidan Kohn-Murphy,aidanpleasestoptalking,https://www.tiktok.com/@AidanPleaseStopTalking,assets/@aidanpleasestoptalking-profile.jpeg,290317
-Bennett curran,bennettcurran,https://www.tiktok.com/@Bennettcurran,assets/@bennettcurran-profile.jpeg,1100000
-Star Jowers,starjowers,https://www.tiktok.com/@Starjowers,assets/@starjowers-profile.jpeg,23546
-Brynne Rosetta,brynnerosetta,https://www.tiktok.com/@brynnerosetta,assets/@brynnerosetta-profile.jpeg,1516943
+Sofia Ongele,sewpheeyuh,https://www.tiktok.com/@sewpheeyuh,assets/@sewpheeyuh-profile.jpeg,326600
+Victoria Hammett,victoriahammett,https://www.tiktok.com/@victoriahammett,assets/@victoriahammett-profile.jpeg,866800
+Luis desantiago,luis.wtf,https://www.tiktok.com/@Luis.wtf,assets/@luis.wtf-profile.jpeg,35348
+Yakiem Oconnor,imyakiem,https://www.tiktok.com/@imyakiem,assets/@imyakiem-profile.jpeg,317191
+Jack Petocz,jack_petocz,https://www.tiktok.com/@jack_petocz,assets/@jack_petocz-profile.jpeg,36632
+Elise Joshi,elisejoshi,https://www.tiktok.com/@Elisejoshi,assets/@elisejoshi-profile.jpeg,152887
+Anthony Guevara,varatony,https://www.tiktok.com/@varatony,assets/@varatony-profile.jpeg,425627
+Madison Lawrence,thenewmadison,https://www.tiktok.com/@thenewmadison,assets/@thenewmadison-profile.jpeg,86113
+Samuel Everett Korn,samerubi,https://www.tiktok.com/@samerubi,assets/@samerubi-profile.jpeg,1130895
+Sam Shlafstein,yamshlaf,https://www.tiktok.com/@yamshlaf,assets/@yamshlaf-profile.jpeg,147937
+Connor Hesse,connorhessee,https://www.tiktok.com/@connorhessee,assets/@connorhessee-profile.jpeg,4243266
+Conor Stayton,cowboyconor,https://www.tiktok.com/@CowboyConor,assets/@cowboyconor-profile.jpeg,575040
+Claire Simon,claire.leah13,https://www.tiktok.com/@claire.leah13,assets/@claire.leah13-profile.jpeg,3047
+Abbie Richards,tofology,https://www.tiktok.com/@tofology,assets/@tofology-profile.jpeg,578600
+Trevor Douglas Haueisen,trvrdmusic,https://www.tiktok.com/@trvrdmusic,assets/@trvrdmusic-profile.jpeg,71850
+Seth Thomas,zethdafer,https://www.tiktok.com/@Zethdafer,assets/@zethdafer-profile.jpeg,231168
+Michael Hootner,mikehootner,https://www.tiktok.com/@Mikehootner,assets/@mikehootner-profile.jpeg,24442
+Sarah Kennedy,boozhoo.sarah,https://www.tiktok.com/@Boozhoo.Sarah,assets/@boozhoo.sarah-profile.jpeg,14640
+Alex Pearlman,pearlmania500,https://www.tiktok.com/@Pearlmania500,assets/@pearlmania500-profile.jpeg,1929050
+Hope Marie,epohmp4,https://www.tiktok.com/@epohmp4,assets/@epohmp4-profile.jpeg,1021519
+Sabrina pare,sabrina.sustainable.life,https://www.tiktok.com/@Sabrina.sustainable.life,assets/@sabrina.sustainable.life-profile.jpeg,255715
+Folasade (Sadé) Kammen,justsadeee,https://www.tiktok.com/@justsadeee,assets/@justsadeee-profile.jpeg,121792
+amber pesce,kurtsf4ggylamp,https://www.tiktok.com/@kurtsf4ggylamp,assets/@kurtsf4ggylamp-profile.jpeg,51585
+Caitlin Mourek,caityohwaity,https://www.tiktok.com/@caityohwaity,assets/@caityohwaity-profile.jpeg,34209
+Oluwatoni Akande,thissonghasnotitle,https://www.tiktok.com/@thissonghasnotitle,assets/@thissonghasnotitle-profile.jpeg,154408
+yahzee mendez,_second.star_,https://www.tiktok.com/@_second.star_,assets/@_second.star_-profile.jpeg,134264
+Anya Mathur,anyamth,https://www.tiktok.com/@anyamth,assets/@anyamth-profile.jpeg,327338
+Leah Abigail Yi,ravenforreal,https://www.tiktok.com/@RavenForReal,assets/@ravenforreal-profile.jpeg,185541
+Duncan Joseph,duncanyounot,https://www.tiktok.com/@Duncanyounot,assets/@duncanyounot-profile.jpeg,5014000
+Aidan Kohn-Murphy,aidanpleasestoptalking,https://www.tiktok.com/@AidanPleaseStopTalking,assets/@aidanpleasestoptalking-profile.jpeg,301517
+Bennett curran,bennettcurran,https://www.tiktok.com/@Bennettcurran,assets/@bennettcurran-profile.jpeg,1322000
+Star Jowers,starjowers,https://www.tiktok.com/@Starjowers,assets/@starjowers-profile.jpeg,25167
+Brynne Rosetta,brynnerosetta,https://www.tiktok.com/@brynnerosetta,assets/@brynnerosetta-profile.jpeg,1620393
 joshua jose,joshxdragon,https://www.tiktok.com/@joshxdragon,assets/@joshxdragon-profile.jpeg,23314
-Siena Chanel,see.en.uh,https://www.tiktok.com/@see.en.uh,assets/@see.en.uh-profile.jpeg,182030
-Nandi Perry,secondhandsatisfashion,https://www.tiktok.com/@Secondhandsatisfashion,assets/@secondhandsatisfashion-profile.jpeg,113456
-Celina Lamon,celinalamon,https://www.tiktok.com/@Celinalamon,assets/@celinalamon-profile.jpeg,192297
-Anish Mohanty,anishmohanty_,https://www.tiktok.com/@anishmohanty_,assets/@anishmohanty_-profile.jpeg,31626
-Cami Twomey,cami.twomeyy,https://www.tiktok.com/@Cami.twomeyy,assets/@cami.twomeyy-profile.jpeg,593800
-Jesus Acevedo,jesusacevedox43,https://www.tiktok.com/@jesusacevedox43,assets/@jesusacevedox43-profile.jpeg,1600000
-Cait Jacobs,caitsbooks,https://www.tiktok.com/@caitsbooks,assets/@caitsbooks-profile.jpeg,314400
-Colin Yeager,yeahcolin,https://www.tiktok.com/@Yeahcolin,assets/@yeahcolin-profile.jpeg,1600000
-Eddie Liger Smith ,edwardmliger,https://www.tiktok.com/@EdwardMLiger,assets/@edwardmliger-profile.jpeg,42000
-Emily Shaw,emilyrayna,https://www.tiktok.com/@emilyrayna,assets/@emilyrayna-profile.jpeg,6000000
-Alex Haraus,alex.haraus,https://www.tiktok.com/@Alex.haraus,assets/@alex.haraus-profile.jpeg,682883
-Laur Wheeler,classiclaur,https://www.tiktok.com/@classiclaur,assets/@classiclaur-profile.jpeg,198886
-Jaeden Clark,milfluvjae,https://www.tiktok.com/@milfluvjae,assets/@milfluvjae-profile.jpeg,248355
-Kakudji Simone Umba,simplysimone,https://www.tiktok.com/@SimplySimone,assets/@simplysimone-profile.jpeg,307000
-Heidy Torres ,heidytorr,https://www.tiktok.com/@Heidytorr,assets/@heidytorr-profile.jpeg,364000
-Lex Beckom,thatotheralex,https://www.tiktok.com/@Thatotheralex,assets/@thatotheralex-profile.jpeg,249300
-Brooklynne Webb,xobrooklynne,https://www.tiktok.com/@Xobrooklynne,assets/@xobrooklynne-profile.jpeg,10800000
-Louis Weisz,weisz,https://www.tiktok.com/@weisz,assets/@weisz-profile.jpeg,289300
-Maria Vargas ,gabsvargasl,https://www.tiktok.com/@gabsvargasl,assets/@gabsvargasl-profile.jpeg,4808
-Monica Liao,lamenteopen,https://www.tiktok.com/@Lamenteopen,assets/@lamenteopen-profile.jpeg,37200
-Peter Sherman,psherman42wallaby,https://www.tiktok.com/@Psherman42wallaby,assets/@psherman42wallaby-profile.jpeg,504743
-Yeganeh Mafaher,littleyeg,https://www.tiktok.com/@Littleyeg,assets/@littleyeg-profile.jpeg,162900
-Logan McTure,the_weirdough8,https://www.tiktok.com/@The_weirdough8,assets/@the_weirdough8-profile.jpeg,33600
-Edison Lopez,senoredison,https://www.tiktok.com/@senoredison,assets/@senoredison-profile.jpeg,880900
-Christina Calcote,christina.calcote,https://www.tiktok.com/@christina.calcote,assets/@christina.calcote-profile.jpeg,239800
-Sean Wiggs,seandablack,https://www.tiktok.com/@SeanDaBlack,assets/@seandablack-profile.jpeg,88257
-Matt Taylor,mattheperson,https://www.tiktok.com/@mattheperson,assets/@mattheperson-profile.jpeg,6000000
-Austin Peyton,austinpeyton,https://www.tiktok.com/@austinpeyton,assets/@austinpeyton-profile.jpeg,2492570
+Siena Chanel,see.en.uh,https://www.tiktok.com/@see.en.uh,assets/@see.en.uh-profile.jpeg,242222
+Nandi Perry,secondhandsatisfashion,https://www.tiktok.com/@Secondhandsatisfashion,assets/@secondhandsatisfashion-profile.jpeg,115799
+Celina Lamon,celinalamon,https://www.tiktok.com/@Celinalamon,assets/@celinalamon-profile.jpeg,194724
+Anish Mohanty,anishmohanty_,https://www.tiktok.com/@anishmohanty_,assets/@anishmohanty_-profile.jpeg,32997
+Cami Twomey,cami.twomeyy,https://www.tiktok.com/@Cami.twomeyy,assets/@cami.twomeyy-profile.jpeg,596240
+Jesus Acevedo,jesusacevedox43,https://www.tiktok.com/@jesusacevedox43,assets/@jesusacevedox43-profile.jpeg,1679000
+Cait Jacobs,caitsbooks,https://www.tiktok.com/@caitsbooks,assets/@caitsbooks-profile.jpeg,412500
+Colin Yeager,yeahcolin,https://www.tiktok.com/@Yeahcolin,assets/@yeahcolin-profile.jpeg,1688900
+Eddie Liger Smith,edwardmliger,https://www.tiktok.com/@EdwardMLiger,assets/@edwardmliger-profile.jpeg,69500
+Emily Shaw,emilyrayna,https://www.tiktok.com/@emilyrayna,assets/@emilyrayna-profile.jpeg,6434000
+Alex Haraus,alex.haraus,https://www.tiktok.com/@Alex.haraus,assets/@alex.haraus-profile.jpeg,779467
+Laur Wheeler,classiclaur,https://www.tiktok.com/@classiclaur,assets/@classiclaur-profile.jpeg,202004
+Jaeden Clark,milfluvjae,https://www.tiktok.com/@milfluvjae,assets/@milfluvjae-profile.jpeg,253710
+Kakudji Simone Umba,simplysimone,https://www.tiktok.com/@SimplySimone,assets/@simplysimone-profile.jpeg,309784
+Heidy Torres,heidytorr,https://www.tiktok.com/@Heidytorr,assets/@heidytorr-profile.jpeg,384000
+Lex Beckom,thatotheralex,https://www.tiktok.com/@Thatotheralex,assets/@thatotheralex-profile.jpeg,252932
+Brooklynne Webb,xobrooklynne,https://www.tiktok.com/@Xobrooklynne,assets/@xobrooklynne-profile.jpeg,11210000
+Louis Weisz,weisz,https://www.tiktok.com/@weisz,assets/@weisz-profile.jpeg,293277
+Maria Vargas,gabsvargasl,https://www.tiktok.com/@gabsvargasl,assets/@gabsvargasl-profile.jpeg,6920
+Monica Liao,lamenteopen,https://www.tiktok.com/@Lamenteopen,assets/@lamenteopen-profile.jpeg,47800
+Peter Sherman,psherman42wallaby,https://www.tiktok.com/@Psherman42wallaby,assets/@psherman42wallaby-profile.jpeg,512434
+Yeganeh Mafaher,littleyeg,https://www.tiktok.com/@Littleyeg,assets/@littleyeg-profile.jpeg,165040
+Logan McTure,the_weirdough8,https://www.tiktok.com/@The_weirdough8,assets/@the_weirdough8-profile.jpeg,33664
+Edison Lopez,senoredison,https://www.tiktok.com/@senoredison,assets/@senoredison-profile.jpeg,980900
+Christina Calcote,christina.calcote,https://www.tiktok.com/@christina.calcote,assets/@christina.calcote-profile.jpeg,242975
+Sean Wiggs,seandablack,https://www.tiktok.com/@SeanDaBlack,assets/@seandablack-profile.jpeg,89469
+Matt Taylor,mattheperson,https://www.tiktok.com/@mattheperson,assets/@mattheperson-profile.jpeg,6786000
+Austin Peyton,austinpeyton,https://www.tiktok.com/@austinpeyton,assets/@austinpeyton-profile.jpeg,2563570
+Y. Leandro villegas,yersonlv_,https://www.tiktok.com/@Yersonlv_,assets/@yersonlv_-profile.jpeg,119877
+Adam Oh,adamohmusic,https://www.tiktok.com/@adamohmusic,assets/@adamohmusic-profile.jpeg,223100
+Tyler Irby,tyl._r,https://www.tiktok.com/@tyl._r,assets/@tyl._r-profile.jpeg,83506
+Brendan Morris,brendanamorris,https://www.tiktok.com/@brendanamorris,assets/@brendanamorris-profile.jpeg,67089
+Jeremy Muchemi,hellyeahjeremy,https://www.tiktok.com/@hellyeahjeremy,assets/@hellyeahjeremy-profile.jpeg,56914
+Erica McCormick,dyk3dynasty,https://www.tiktok.com/@Dyk3dynasty,assets/@dyk3dynasty-profile.jpeg,40996
+Madelynne Whitt,madwhitty,https://www.tiktok.com/@Madwhitty,assets/@madwhitty-profile.jpeg,439273
+Asher Bank,asherlb,https://www.tiktok.com/@Asherlb,assets/@asherlb-profile.jpeg,133864
+Sophia Judice,coolestgirlintheworld777,https://www.tiktok.com/@coolestgirlintheworld777,assets/@coolestgirlintheworld777-profile.jpeg,66219
+Daisy Foko,daisyfoko,https://www.tiktok.com/@Daisyfoko,assets/@daisyfoko-profile.jpeg,648155
+Erynn Malessia Chambers,rynnstar,https://www.tiktok.com/@Rynnstar,assets/@rynnstar-profile.jpeg,1181870
+Aditya Ali,theadityaali,https://www.tiktok.com/@theadityaali,assets/@theadityaali-profile.jpeg,145688
+Vix Gallardo,thehagtress,https://www.tiktok.com/@TheHagtress,assets/@thehagtress-profile.jpeg,12480
+Alan Vargas,thealanvargas,https://www.tiktok.com/@Thealanvargas,assets/@thealanvargas-profile.jpeg,49627
+Ivory Stahly,ivoryeveryday,https://www.tiktok.com/@IvoryEveryDay,assets/@ivoryeveryday-profile.jpeg,213442
+Meaghan D’Amico,arkh4m_,https://www.tiktok.com/@arkh4m_,assets/@arkh4m_-profile.jpeg,3342
+Stephanie Canada,likethenorthcountry,https://www.tiktok.com/@Likethenorthcountry,assets/@likethenorthcountry-profile.jpeg,13592
+Laura Danger,thatdarnchat,https://www.tiktok.com/@Thatdarnchat,assets/@thatdarnchat-profile.jpeg,724327
+Ariella Elm,ariella.elm,https://www.tiktok.com/@ariella.elm,assets/@ariella.elm-profile.jpeg,292782
+James Rose,jamesissmiling,https://www.tiktok.com/@Jamesissmiling,assets/@jamesissmiling-profile.jpeg,547477
+Summer Sage Booth,gothichorrorcliche,https://www.tiktok.com/@gothichorrorcliche,assets/@gothichorrorcliche-profile.jpeg,36191
+Ariana Jasmine Afshar,arianajasmine___,https://www.tiktok.com/@Arianajasmine___,assets/@arianajasmine___-profile.jpeg,178900
+Maybe Burke,believeinmaybe,https://www.tiktok.com/@believeinmaybe,assets/@believeinmaybe-profile.jpeg,97930
+Jonathan Kung,jonkung,https://www.tiktok.com/@Jonkung,assets/@jonkung-profile.jpeg,1901817
+Alfredo Garcia,freddsters,https://www.tiktok.com/@Freddsters,assets/@freddsters-profile.jpeg,2068142
+Stanzi Potenza,stanzipotenza,https://www.tiktok.com/@Stanzipotenza,assets/@stanzipotenza-profile.jpeg,4641975
+Joelle phillips,joellephillips,https://www.tiktok.com/@JoellePhillips,assets/@joellephillips-profile.jpeg,259800
+Isaias Hernandez,queerbrownvegan,https://www.tiktok.com/@queerbrownvegan,assets/@queerbrownvegan-profile.jpeg,153000
+Alexis Williams,alexisdenisew,https://www.tiktok.com/@alexisdenisew,assets/@alexisdenisew-profile.jpeg,353500
+Burns Newby Johansson,thebeardeditguy,https://www.tiktok.com/@Thebeardeditguy,assets/@thebeardeditguy-profile.jpeg,119000
+Ilana Degann,ilanadegann,https://www.tiktok.com/@ilanadegann,assets/@ilanadegann-profile.jpeg,752459
+Sabrina Ortiz,bbegbrina,https://www.tiktok.com/@bbegbrina,assets/@bbegbrina-profile.jpeg,14368
+Juju Green,straw_hat_goofy,https://www.tiktok.com/@Straw_Hat_Goofy,assets/@straw_hat_goofy-profile.jpeg,3590989
+E.K. Powell,whatsgoodenglish,https://www.tiktok.com/@WhatsGoodEnglish,assets/@whatsgoodenglish-profile.jpeg,162000
+Cecelia Gray,notedinternetfool,https://www.tiktok.com/@notedinternetfool,assets/@notedinternetfool-profile.jpeg,285790
+Joelle Thérèse,joelle_theresee,https://www.tiktok.com/@joelle_theresee,assets/@joelle_theresee-profile.jpeg,37410
+G. L. DiVittorio,thepocketreport,https://www.tiktok.com/@ThePocketReport,assets/@thepocketreport-profile.jpeg,339500
+Dan whalen,tfimb,https://www.tiktok.com/@Tfimb,assets/@tfimb-profile.jpeg,38661
+Alaina Wood,thegarbagequeen,https://www.tiktok.com/@thegarbagequeen,assets/@thegarbagequeen-profile.jpeg,460841
+Kai Northcott,kai8seasons,https://www.tiktok.com/@Kai8seasons,assets/@kai8seasons-profile.jpeg,250525
+David Reyes,werewolfteacher,https://www.tiktok.com/@Werewolfteacher,assets/@werewolfteacher-profile.jpeg,6535
+Jegaysus C.,jegaysus,https://www.tiktok.com/@Jegaysus,assets/@jegaysus-profile.jpeg,314550
+Freydis Leigh Watson,qu3enfreydis,https://www.tiktok.com/@qu3enfreydis,assets/@qu3enfreydis-profile.jpeg,33625
+Sophia James,sophiajamesmusic,https://www.tiktok.com/@sophiajamesmusic,assets/@sophiajamesmusic-profile.jpeg,334045
+Akhil Kagithapu,akh2l,https://www.tiktok.com/@akh2l,assets/@akh2l-profile.jpeg,14434
+Grant Baciocco,thetoiley,https://www.tiktok.com/@thetoiley,assets/@thetoiley-profile.jpeg,3231000
+Eli Bank,banktheshot,https://www.tiktok.com/@BANKtheshot,assets/@banktheshot-profile.jpeg,12794
+LaTarsha Blackhorn,hellgirlvibe,https://www.tiktok.com/@Hellgirlvibe,assets/@hellgirlvibe-profile.jpeg,372000
+Jonathan Cooper,counterpointpolitics,https://www.tiktok.com/@CounterpointPolitics,assets/@counterpointpolitics-profile.jpeg,92200
+Elizabeth Jean Miezejeski,lizaajean,https://www.tiktok.com/@lizaajean,assets/@lizaajean-profile.jpeg,291710
+Walter Masterson,waltermasterson,https://www.tiktok.com/@waltermasterson,assets/@waltermasterson-profile.jpeg,1894000
+Eaindra Moe,mingalabae,https://www.tiktok.com/@Mingalabae,assets/@mingalabae-profile.jpeg,350265
+Olivia Julianna,0liviajulianna,https://www.tiktok.com/@0liviajulianna,assets/@0liviajulianna-profile.jpeg,719443
+william mahony,wahony,https://www.tiktok.com/@wahony,assets/@wahony-profile.jpeg,2071450
+Lee Boxleitner,theleewithnoname,https://www.tiktok.com/@TheLeewithNoName,assets/@theleewithnoname-profile.jpeg,319700
+charlie amáyá scott,dineaesthetics,https://www.tiktok.com/@dineaesthetics,assets/@dineaesthetics-profile.jpeg,194930
+Sheila Cruz-Morales,oaxacanprincesss,https://www.tiktok.com/@Oaxacanprincesss,assets/@oaxacanprincesss-profile.jpeg,5150
+Logan James Thompson,thewestsidewizard,https://www.tiktok.com/@Thewestsidewizard,assets/@thewestsidewizard-profile.jpeg,90423
+Sarah Derderian,flannelsallday,https://www.tiktok.com/@Flannelsallday,assets/@flannelsallday-profile.jpeg,39059
+Jeanelle Castro,jeanelleats,https://www.tiktok.com/@Jeanelleats,assets/@jeanelleats-profile.jpeg,484600
+Paige Troxell,thefinalgurl,https://www.tiktok.com/@TheFinalGurl,assets/@thefinalgurl-profile.jpeg,37700
+Tamra Moon,mstamramoon,https://www.tiktok.com/@MsTamraMoon,assets/@mstamramoon-profile.jpeg,313446
+Kate Bacon,kbacon,https://www.tiktok.com/@Kbacon,assets/@kbacon-profile.jpeg,1846535
+Will McCaffery,willzbackup,https://www.tiktok.com/@willzbackup,assets/@willzbackup-profile.jpeg,85835
+Matthew Rein,matthew.rein,https://www.tiktok.com/@Matthew.Rein,assets/@matthew.rein-profile.jpeg,103760
+Sean Doran,b0ringlyf3,https://www.tiktok.com/@b0ringlyf3,assets/@b0ringlyf3-profile.jpeg,6846
+Lindsey holland,im.an.adult,https://www.tiktok.com/@Im.an.adult,assets/@im.an.adult-profile.jpeg,224899

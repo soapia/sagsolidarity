@@ -29,7 +29,8 @@ body {
 
 .marquee-content {
   display: flex;
-  animation: scrolling 180s linear infinite;
+  animation: scrolling 387s linear infinite;
+  /* 3 * num creators */
   font-family: 'Fira Sans Condensed', sans-serif;
   padding-top: 50px;
   /* bottom: 10px; */
@@ -52,7 +53,7 @@ body {
 
 @keyframes scrolling {
   0% { transform: translateX(0); }
-  100% { transform: translatex(-15120px); }
+  100% { transform: translatex(-30960px); }
 /* 240 * num of creators */
 }
 
